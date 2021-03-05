@@ -1,6 +1,7 @@
 import os
 
 os.system('clear')
+
 print '============Galih================'
 print '(1) penjumlahan'
 print '(2) pengurangan'
