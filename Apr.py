@@ -2,7 +2,7 @@ import os
 
 os.system('clear')
 
-print ('============Galih================')
+print('============Galih================')
 print '(1) penjumlahan'
 print '(2) pengurangan'
 print '(3) perkalian'
